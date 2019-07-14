@@ -1,11 +1,13 @@
 ## Interface: 80200
-## X-Curse-Packaged-Version: 1.0
-## X-Curse-Project-Name: Open Sans Fonts (SharedMedia)
 
 ## Title: Open Sans Fonts (SharedMedia)
 ## Notes: Adds the Open Sans font family into SharedMediaLib's storage. 
-## Version: 1.0.0
+## Version: @project-version@
 ## Author: delbertooo
+
+## X-Website: https://github.com/delbertooo/wow-open-sans-fonts
+## X-License: MIT
+## X-Curse-Project-ID: 327426
 ## X-Category: Miscellaneous
 ## X-Credits: delbertooo
 

@@ -1,0 +1,9 @@
+package-as: OpenSansFonts
+enable-nolib-creation: no
+
+move-folders:
+    OpenSansFonts/src/OpenSansFonts: OpenSansFonts
+
+ignore:
+  - LICENSE
+  - README.md
