@@ -1,4 +1,4 @@
-## Interface: 80200
+## Interface: 90002
 
 ## Title: Open Sans Fonts (SharedMedia)
 ## Notes: Adds the Open Sans font family into SharedMediaLib's storage. 
